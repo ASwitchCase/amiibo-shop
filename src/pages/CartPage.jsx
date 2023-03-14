@@ -65,7 +65,7 @@ const CartPage = () => {
                             <h3>xxx</h3>
                         </div>
                     </div>
-                    <button>Procced To Checkout</button>
+                    <button>Proceed To Checkout</button>
                     <CartContext.Consumer>{context =>{
                         return <h2 style={{float:'right',marginTop:'30%'}}>Total: ${context.myCart.getTotalPrice()}</h2>
                 }}</CartContext.Consumer>
