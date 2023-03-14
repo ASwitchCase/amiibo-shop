@@ -56,7 +56,7 @@ const CartPage = () => {
                         </div>
 
                         <div >
-                            <h2>Experation Date</h2>
+                            <h2>Expiration Date</h2>
                             <h3>xx/xxxx</h3>
                         </div>
 
